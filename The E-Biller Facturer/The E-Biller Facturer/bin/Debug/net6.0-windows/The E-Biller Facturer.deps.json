@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "The E-Biller Facturer/1.0.0": {
+        "runtime": {
+          "The E-Biller Facturer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The E-Biller Facturer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

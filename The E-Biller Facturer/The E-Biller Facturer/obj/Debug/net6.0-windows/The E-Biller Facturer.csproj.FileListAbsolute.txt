@@ -1,0 +1,21 @@
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The_E_Biller_Facturer.Form1.resources
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.AssemblyInfo.cs
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\bin\Debug\net6.0-windows\The E-Biller Facturer.exe
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\bin\Debug\net6.0-windows\The E-Biller Facturer.deps.json
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\bin\Debug\net6.0-windows\The E-Biller Facturer.runtimeconfig.json
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\bin\Debug\net6.0-windows\The E-Biller Facturer.dll
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\bin\Debug\net6.0-windows\The E-Biller Facturer.pdb
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The_E_Biller_Facturer.Form2.resources
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.dll
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\refint\The E-Biller Facturer.dll
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.pdb
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The E-Biller Facturer.genruntimeconfig.cache
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\ref\The E-Biller Facturer.dll
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The_E_Biller_Facturer.Properties.Resources.resources
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The_E_Biller_Facturer.Form3.resources
+C:\Users\acer\source\repos\The E-Biller Facturer\The E-Biller Facturer\obj\Debug\net6.0-windows\The_E_Biller_Facturer.Form4.resources
