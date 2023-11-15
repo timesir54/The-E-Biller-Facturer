@@ -1,0 +1,6 @@
+# Ignorar todas las carpetas .vs en cualquier nivel de profundidad
+**/.vs/
+
+# Ignorar todos los bin y obj
+**/bin/
+**/obj/
